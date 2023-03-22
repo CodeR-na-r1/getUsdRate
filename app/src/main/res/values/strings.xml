@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">GetUSDRate</string>
+    <string name="refresh_rate">refresh</string>
+    <string name="usd_rate">Current rate:</string>
+    <string name="target_rate_empty">Target rate is empty</string>
+    <string name="current_rate_empty">Current rate is empty</string>
+    <string name="subscribe">subscribe</string>
+    <string name="target_rate">Target rate</string>
+
+    <string name="API_KEY">2dd0b733f52cac80645b95817a9719118bea1007331e92b2b4e60e3ac190a7bc</string>
+</resources>
